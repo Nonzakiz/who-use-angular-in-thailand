@@ -31,6 +31,14 @@
       "companyUrl": "https://www.cal-cal.com",
       "productUrls": [],
       "technologies": ["angular","firebase","gcp","android","ios"]
+    },
+    {
+      "name": "incen Co.,Ltd.",
+      "description": "Create innovation for engineering",
+      "logo": "https://bit.ly/2Tcmy0C",
+      "companyUrl": "https://hostxdesign.com",
+      "productUrls": [],
+      "technologies": ["angular","firebase","node.js"]
     }
   ]
 }
